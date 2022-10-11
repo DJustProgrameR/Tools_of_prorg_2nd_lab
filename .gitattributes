@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
 *.jpeg filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> d06d271a3e912cee61ee72ca5336921c0d114c9e
 .png filter=lfs diff=lfs merge=lfs -text
