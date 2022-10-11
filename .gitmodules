@@ -1,3 +1,6 @@
 [submodule "labwork2-ProfProgRammeR"]
 	path = labwork2-ProfProgRammeR
 	url = https://github.com/is-itmo-c-22/labwork2-ProfProgRammeR
+[submodule "geometric_lib"]
+	path = geometric_lib
+	url = https://github.com/smartiqaorg/geometric_lib
